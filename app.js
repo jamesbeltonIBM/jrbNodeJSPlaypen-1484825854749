@@ -28,7 +28,7 @@ app.listen(appEnv.port, '0.0.0.0', function() {
 });
 
 // write the jamesfun function
-function jamesfunc() 
+function jamesfunc(a, b) 
 {
-  return "Clare"
+  return a*b
 };
