@@ -1,12 +1,12 @@
 function jamesFunc(a, b)
 {
-  var result=a*b;
+  var result = a*b;
 return result;
 };
 
 function getWeather(postcode)
 {
-  var mytext='Result is..... ';
+  var mytext =' Result is..... ';
   
   if (process.env.VCAP_SERVICES)
   {
