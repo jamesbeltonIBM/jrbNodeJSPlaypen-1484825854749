@@ -5,6 +5,6 @@ return a*b;
 
 function getWeather(postcode)
 {
-  var url=WEATHER_URL;
+  var url=$WEATHER_URL;
 return url;
 };
