@@ -1,0 +1,23 @@
+{
+    "weatherinsights": [
+        {
+            "credentials": {
+                "username": "eb271648-06d2-4750-8816-f561f36e5e32",
+                "password": "T70eHOuFxd",
+                "host": "twcservice.mybluemix.net",
+                "port": 443,
+                "url": "https://eb271648-06d2-4750-8816-f561f36e5e32:T70eHOuFxd@twcservice.mybluemix.net"
+            },
+            "syslog_drain_url": null,
+            "label": "weatherinsights",
+            "provider": null,
+            "plan": "Free-v2",
+            "name": "Weather Company Data-un",
+            "tags": [
+                "big_data",
+                "ibm_created",
+                "ibm_dedicated_public"
+            ]
+        }
+    ]
+}
